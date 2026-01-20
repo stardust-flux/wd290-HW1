@@ -219,14 +219,14 @@ ul {
 
 /* ====== Media Queries ====== */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .hero-inner {
     flex-wrap: wrap;
     gap: 2rem;
   }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
   .card-row {
     flex-wrap: wrap;
     gap: 2rem;
