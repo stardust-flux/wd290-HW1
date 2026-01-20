@@ -208,6 +208,7 @@ ul {
   display: flex;
   flex-direction: column;
   margin-top: 1rem;
+  padding-right: 0 3rem;
 }
 
 .site-footer {
